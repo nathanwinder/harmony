@@ -12,7 +12,7 @@ Setting the stack whitespace to medium.
 
 ```html
 <div>
-  <H1>Hello World</H1>
+  <h1>Hello World</h1>
   <Stack value="m"/>
   <p>There is additional whitespace between the title and paragraph.</p>
 </div>
@@ -22,7 +22,7 @@ Setting the stack whitesplace to medium at the mobile breakpoint and large at th
 
 ```html
 <div>
-  <H1>Hello World</H1>
+  <h1>Hello World</h1>
   <Stack value={{mobile: "m", tablet: "l"}}/>
   <p>There is additional whitespace between the title and paragraph.</p>
 </div>
@@ -32,7 +32,7 @@ Colors the whitespace element to make it easier to debug layout issues.
 
 ```html
 <div>
-  <H1>Hello World</H1>
+  <h1>Hello World</h1>
   <Stack value="m" debug={true}/>
   <p>There is additional whitespace between the title and paragraph.</p>
 </div>
