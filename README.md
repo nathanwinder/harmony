@@ -1,6 +1,6 @@
 # Harmony
 
-`:exclamation: This project is in alpha and has not yet been packaged for distribution via NPM. That is coming soon. In the mean time I'd love your feedback.`
+:exclamation:`This project is in alpha and has not yet been packaged for distribution via NPM. That is coming soon. In the mean time I'd love your feedback.`
 
 Harmony was inspired by Nathan Curtis' blog post "[Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)". Nathan covers three primary elements of whitespace: inset, stack, and inline. He goes on to suggest developers should size whitespace useing a harmonious scale named using t-shirt sizes. This enables developers to quickly layout an application without constantly asking the question "Does this margin look right?"
 
